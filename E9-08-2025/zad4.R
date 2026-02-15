@@ -34,3 +34,4 @@ print(paste("Kraj:", round(putanja[brojiter+1,1],6), round(putanja[brojiter+1,2]
 print(paste("f(kraj):", round(f(putanja[brojiter+1,]),6)))
 #poklapa se sa resenjm datim u knjizi 
 
+
