@@ -164,4 +164,5 @@ z3_P1;
 z3_provera = z3_P %*% z3_D %*% z3_P1;
 z3_provera;
 
+
 round((z3_provera - z3_A),8) # treba sve nule
